@@ -1,6 +1,6 @@
 {
   "server" : {
-    "response" : false
+    "response" : true
   },
   "restart" : {
     "response" : true
