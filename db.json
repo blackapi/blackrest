@@ -3,6 +3,6 @@
     "response" : false
   },
   "restart" : {
-    "response" : false
+    "response" : true
   }
 }
