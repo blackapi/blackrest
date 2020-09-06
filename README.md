@@ -1,6 +1,6 @@
 # blackrest
 
-[https://my-json-server.typicode.com/rad10k1tty/blackserver](https://my-json-server.typicode.com/rad10k1tty/blackserver)
+[https://my-json-server.typicode.com/blackapi/blackrest](https://my-json-server.typicode.com/blackapi/blackrest)
 
 ## Инструкция
 
